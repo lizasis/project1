@@ -1,0 +1,129 @@
+.flex-container{
+    border: solid white;
+    wh: 100%;
+    vh: 100%; 
+    font-size: 9px;
+    border-radius: 1cm;
+    margin-bottom: 60px;
+    padding-top: 60px;
+    padding-left: 30px;
+    
+   
+}
+
+ 
+.container-items{
+    
+    position: absolute;
+    justify-content: space-around;
+    padding-top: 70px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: x-large;
+    display: flex;
+    
+
+}
+   
+    .flex-items{
+      display: flex;justify-content: space-around;
+    }
+    
+
+  #Register{color: white;
+    background-color: blue;
+    width: 35px;
+    height: 15px;
+    flex-direction: column;
+    border: solid blue 1px;
+    padding-right:  3px;
+    border-radius: 2px;
+    padding: 2px;
+    
+    cursor: pointer;
+    }
+
+    #search-course{
+        border: solid blue 1px;
+        color: white;
+        background-color: blue;
+        width: 40px;
+        height: 18px;
+        border-radius: 1px;
+        cursor: pointer;
+    }
+    #Medical{
+        color: blue;
+        font-size: small;
+        cursor: pointer;
+        
+    }
+
+    
+.form{ border:solid blue 1px;
+    margin-bottom: 30px;
+    display: flex;
+    background-color: blue;
+    color: white;
+    
+    
+   
+    
+}
+.image1{
+    position: relative;
+    display: flex;
+    margin-left: 100px;
+    margin-right: 10px;
+    margin-top: -23px;
+
+    gap: 10px;
+}
+    .image2{
+        position: relative;
+        margin-top: -13%;
+    
+    }
+    
+
+
+.box2{
+
+    display: flex;
+   
+    padding-top: .3cm;
+    border: solid blue 0px;
+    box-sizing: content-box 10px;
+    width: px;
+    height: 60px;
+    color: black;
+  
+
+}
+.box1{
+    padding-top: 1cm;
+ 
+}
+
+#search-course{
+    border: solid blue 10px
+    background-color: blue;
+    width: 20px;
+    height:10px ;
+    }
+.box3{
+    position: absolute;
+    border: 1px;
+    color: white;
+    background-color: blue;
+    margin-right: 40px;
+    width: 100px;
+    height: 40px;
+    margin-left: 400px;
+    
+}
+.box1-items{
+
+}
+
