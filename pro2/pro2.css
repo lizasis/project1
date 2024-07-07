@@ -1,0 +1,90 @@
+body{
+    background-color: #242E1F; 
+    color: white;
+}
+.items{
+ padding-top: 20px;  
+ 
+  
+}
+.flex items{
+    width: 90px;
+    height: 100px;
+    display: absolute;
+    justify-content: center;
+    border-top: solid wthite 1px;
+    margin-left: 40PX; 
+   
+    
+    
+}
+    
+.header{
+    margin-left: 40px;
+    justify-content: center;
+    display: flex;
+    padding-top: 10px;
+    
+    
+}
+.log{
+    margin-left: 550px;
+    margin-top: -55px;
+    gap: px;
+    
+
+    
+}
+
+    
+
+.Box{
+    width: 150px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    border-top: solid wthite 1px;
+    gap: 15px;
+    margin-left: 260px;
+    padding-top: 10PX;
+    
+    
+}
+.box1{
+    margin-left: 590px;
+    justify-content: center;
+    display: flexbox;
+    background-color: beige;
+    margin-top: -20px;
+    width: 1px;
+    font-size: 10px;
+   
+}
+.box-items{
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    padding-top: 15px;
+    
+    font-size: x-large;
+    
+    
+
+}
+.box2{
+    display: flex;
+   
+    padding-top: 80px;
+    font-size: smaller;
+    justify-content: center;
+    
+   
+    
+}
+
+.body{
+    display: flex;
+    margin-right: 150px
+    
+    
+}
