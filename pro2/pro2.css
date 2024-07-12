@@ -7,36 +7,29 @@ body{
  
   
 }
-.flex items{
-    width: 90px;
-    height: 100px;
-    display: absolute;
-    justify-content: center;
-    border-top: solid wthite 1px;
-    margin-left: 40PX; 
+.items{
+    display: flex;
+   margin-left: 20PX; 
+   font-size: small;
+   gap: 10px;
    
-    
     
 }
     
 .header{
-    margin-left: 40px;
     justify-content: center;
     display: flex;
-    padding-top: 10px;
+    margin-top: -20px;
     
     
 }
 .log{
-    margin-left: 550px;
+    margin-left: 540px;
     margin-top: -55px;
-    gap: px;
-    
-
+    gap: 20px; 
     
 }
 
-    
 
 .Box{
     width: 150px;
@@ -47,39 +40,42 @@ body{
     gap: 15px;
     margin-left: 260px;
     padding-top: 10PX;
+    font-size: 12px;
     
     
 }
 .box1{
     margin-left: 590px;
-    justify-content: center;
-    display: flexbox;
+    
     background-color: beige;
-    margin-top: -20px;
+    margin-top: -25px;
     width: 1px;
     font-size: 10px;
-   
+    height: 35px;
+    width: 90px;
+    color: black;
+    padding: 10px 15px;
+    
+  
 }
 .box-items{
     display: flex;
     gap: 15px;
     justify-content: center;
-    padding-top: 15px;
-    
+
+    color: white;
     font-size: x-large;
-    
+    margin-bottom: -280px;
     
 
 }
 .box2{
-    display: flex;
-   
-    padding-top: 80px;
-    font-size: smaller;
-    justify-content: center;
-    
-   
-    
+ display: flex;
+ justify-content: center;
+ margin-top: 80px;
+ margin-bottom: 10px;
+ font-size: 12px;
+  
 }
 
 .body{
@@ -87,4 +83,74 @@ body{
     margin-right: 150px
     
     
+}
+.box3{
+    margin-top: 300px;
+   
+}
+.box4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+padding-top: 50px;
+padding-left: 65px;
+}
+.box5{
+    display: flex;
+justify-content: space-around;
+   padding-top: 30px;
+   padding-left: 50px;
+   padding-bottom: 40px;
+  
+
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    font-size: 10px;
+   margin-bottom: -10px;
+}
+.learn-more{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.l{
+    display: flex;
+    justify-content: space-around;
+    font-size: 10px;
+    text-decoration: underline;
+    margin-bottom: 80px;
+
+}
+.container1{
+    display: flex;
+border-top: solid white 1px;
+margin-left: 20px;
+margin-right: 50px;
+justify-content: flex-end;
+font-size: 15px;
+padding-top: 20px;
+}
+.section{
+    display: flex;
+    justify-content: flex-start;
+}
+.section1{
+    display: flex;
+    justify-content: flex-end;
+}
+.container2{
+    display: flex;
+    font-size: 10px;
+    margin-top: -40px;
+    margin-left: 30px;
+    
+
+}
+.box9{
+    display: flex;
+    width: 200px;
+    padding-left: 30px;
+    padding-top: 30px;
 }
