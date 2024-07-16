@@ -126,6 +126,7 @@ justify-content: space-around;
 .container1{
     display: flex;
 border-top: solid white 1px;
+width: 650px;
 margin-left: 40px;
 margin-right: 100px;
 justify-content: flex-end;
@@ -192,8 +193,9 @@ margin-top: -50px;
 .container7{
     padding-top: 20px;
     border-top: solid white 1px;
+    width: 650px;
     display: flex;
-    margin-left: -320px;
+    margin-left: -280px;
 
 }
 .container8{
@@ -202,7 +204,7 @@ margin-top: -50px;
     font-size: 15px;
 }
 .pic{
- margin-left: -320px;
+ margin-left: -280px;
 }
 .container9{
     margin-top: -220px;
@@ -224,42 +226,58 @@ margin-top: -50px;
 }
 .container11{
     border-top: solid white 1px;
+    width: 650px;
     padding-top: 20px;
-    margin-left: -320px;
+    margin-left: -280px;
 }
 .container12{
     display: flex;
-    margin-left: -320px;
+    margin-left: -280px;
     gap: 12px;
     margin-bottom: 20px;
     margin-top: 15px;
 }
 .container13{
     display: flex;
-    margin-left: -320px;
+    margin-left: -280px;
     gap: 50px;
     margin-bottom: 60px;
     
 }
+.container014{
+    width: 720px;
+    height: 150px;
+    background-color: rgb(183,187,191);
+    color: black;
+    font-size: xx-large;
+    margin-left: -320px;
+}
 .container14{
+    display: flex;
+    justify-content: center;
     
-    margin-top: 40px;
+    padding-top: 20px;
     margin-bottom: 60px;
     font-size: 15px;  
     font-family: ruda;
+    margin-left: 60px;
+    cursor: pointer;
   }
     .container15{
+        display: flex;
+        justify-content: center;
         background-color: beige;
-        margin-top: -15px;
+        margin-top: -35px;
         width: 1px;
         font-size: 10px;
         height: 35px;
         width: 180px;
     color: black;
-    padding: 15px 15px;
-    margin-right: 100px;
+    padding: 10px 15px;
+    margin-left:200px;
     gap: 20px;
     margin-bottom: 25px;
+    cursor: pointer;
     
     
     }
@@ -269,7 +287,9 @@ margin-top: -50px;
         background-color: black;
         color: white;
         width: 70px;
-        margin-left: 185px;
+        margin-left: 390px;
         margin-top: -60px;
-        
+        margin-bottom: 20px;
+        cursor: pointer;
+
     }
